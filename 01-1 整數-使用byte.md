@@ -18,7 +18,7 @@ public class J01_1{
 ``` 
 
 ## 2. 觀看教學影片
-https://youtu.be/yM4Oe9t1-qM
+https://youtu.be/c-NdjNnkCTE
 
 
 ## 3. 完成以下練習
