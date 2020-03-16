@@ -1,4 +1,4 @@
-# 07-5 自製類別-建構元的overloading
+# 07-5 封裝-建構元的overloading
 
 ## 1. 範例
 ``` java
