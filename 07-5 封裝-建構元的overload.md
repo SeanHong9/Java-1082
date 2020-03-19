@@ -1,4 +1,4 @@
-# 07-5 封裝-建構元的overloading
+# 07-5 封裝-建構元的overload
 
 ## 1. 範例
 ``` java
