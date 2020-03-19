@@ -1,4 +1,4 @@
-# 07-7 封裝-方法的overload
+# 08-2 封裝-方法的overload
 
 ## 1. 範例
 ``` java
